@@ -8,10 +8,12 @@ app.controller('mainCtrl', function($scope) {
     $scope.goals = [{
 		category:
 		name:
-		mensuravel:
-		tasks:
-		reason:
-		timing:
+
+		specific:
+		measurable:
+		achievable: 
+		relevant: 
+		timely:
 		status:
     }];
 
